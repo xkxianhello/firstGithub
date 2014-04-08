@@ -7,3 +7,6 @@ make other changes`
 fix the bug
 =======
 >>>>>>> test
+
+
+add
