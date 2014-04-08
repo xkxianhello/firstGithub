@@ -1,5 +1,11 @@
 hello world~!
+<<<<<<< HEAD
 
 make other changes`
 
 fix the bug
+=======
+hello world~!
+hello world~!
+hello world~!
+>>>>>>> test
